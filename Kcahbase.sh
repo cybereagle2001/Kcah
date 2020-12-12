@@ -27,7 +27,7 @@ figlet "    Kcah"
 echo -e "${LIGHTBLUE}      security connection" |pv -qL 10
 echo ""
 echo ""
-echo -e "${GREEN}hello! chef identifie yourself" |pv -qL 10
+echo -e "${GREEN}hello! chef identify yourself" |pv -qL 10
 echo -e "${YELLOW} (the chef lucky number 2001)" |pv -qL 10
 while [ -z $Luser ] || [ $Luser != 'Frank2001' ]
 do
@@ -37,7 +37,7 @@ clear
 echo -e ${WHITE} "//////////////////////////////////////" |pv -qL 20
 echo -e ${CYAN}  "//////////////////////////////////////" |pv -qL 20
 echo -e ${RED}   "     So much time no seen             " |pv -qL 20
-echo             "       found the answers              " |pv -qL 20
+echo             "       find the answers              " |pv -qL 20
 echo -e ${YELLOW}"//////////////////////////////////////" |pv -qL 20
 echo -e ${ORANGE}"//////////////////////////////////////" |pv -qL 20
 echo ""
@@ -47,7 +47,7 @@ do
   echo -e ${WHITE} "//////////////////////////////////////" 
   echo -e ${CYAN}  "//////////////////////////////////////" 
   echo -e ${RED}   "     So much time no seen             " 
-  echo             "        found the answers             " 
+  echo             "        find the answers             " 
   echo -e ${YELLOW}"//////////////////////////////////////" 
   echo -e ${ORANGE}"//////////////////////////////////////" 
   echo ""
@@ -59,7 +59,7 @@ do
   echo -e ${WHITE} "//////////////////////////////////////" 
   echo -e ${CYAN}  "//////////////////////////////////////" 
   echo -e ${RED}   "     So much time no seen             " 
-  echo             "        found the answers             " 
+  echo             "        find the answers             " 
   echo -e ${YELLOW}"//////////////////////////////////////" 
   echo -e ${ORANGE}"//////////////////////////////////////" 
   echo ""
@@ -72,7 +72,7 @@ do
   echo -e ${WHITE} "//////////////////////////////////////" 
   echo -e ${CYAN}  "//////////////////////////////////////" 
   echo -e ${RED}   "     So much time no seen             " 
-  echo             "        found the answers             " 
+  echo             "        find the answers             " 
   echo -e ${YELLOW}"//////////////////////////////////////" 
   echo -e ${ORANGE}"//////////////////////////////////////" 
   echo ""
@@ -86,7 +86,7 @@ do
   echo -e ${WHITE} "//////////////////////////////////////"
   echo -e ${CYAN}  "//////////////////////////////////////"
   echo -e ${RED}   "     So much time no seen             "
-  echo             "        found the answers             "
+  echo             "        find the answers             "
   echo -e ${YELLOW}"//////////////////////////////////////"
   echo -e ${ORANGE}"//////////////////////////////////////"
   echo ""
