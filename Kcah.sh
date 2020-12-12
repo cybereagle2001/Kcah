@@ -190,7 +190,7 @@ if [ "$MrRobot" == "Y" ];then
 do
  clear
   echo -e "${GREY}***************************************"
-  echo    "      Found the first password         "
+  echo    "             Find the first password         "
   echo -e "${GREY}***************************************"
   echo -e "${GREEN} use those information to get into the machine :" |pv -qL 8
   echo "    + Sam"
