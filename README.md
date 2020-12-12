@@ -20,3 +20,9 @@ Make the installer.sh executable:
 Run the installer:
 
 > ./installer.sh
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/) ©Kcah.
+
+Original author : Oussama Ben Hadj Dahman (cybereagle2001)
