@@ -9,3 +9,4 @@ echo "///////////////////////////////"
 sudo apt-get install pv
 sudo apt-get install espeak
 sudo apt-get install figlet
+sudo chmod +x Kcah.sh
