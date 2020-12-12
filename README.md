@@ -6,3 +6,17 @@
 Kcah is a terminal linux game written in Bash and html.
 ## How to install it?
 
+Clone the link :
+> git clone https://github.com/cybereagle2001/Kcah.git
+
+Go to Kcah directory:
+
+> cd Kcah 
+
+Make the installer.sh executable:
+
+> sudo chmod +x installer.sh
+
+Run the installer:
+
+> ./installer.sh
