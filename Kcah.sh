@@ -158,17 +158,29 @@ clear
 
 clear
 echo "12/12/2525"| pv -qL 10
+espeak "12 December 2525"
 echo "***/##à@*** $random ***/##à@*** $random***/##à@*** $random "| pv -qL 10
+espeak "error to read the file"
 echo "Trying to conec***" | pv -qL 10
+espeak "Trying to connec. Error"
 echo "AI bot fixed the problem" | pv -qL 10
+espeak "AI bot fixed the problem"
 echo "Hello new user!"| pv -qL 10
+espeak "Hello nex user"
 echo "Human left the earth 20 years earlier "| pv -qL 10
+espeak "Human left the earth 20 years earlier "
 echo "Kcah was created to upgrade AI inteligence but something turned bad"| pv -qL 10
+espeak "Kcah was created. to upgrade AI inteligence. but something turned bad"
 echo "We know that the bug was a terrorist attack! You are our faith"| pv -qL 10
+espeak "We know that the bug was a terrorist attack. You are our faith"
 echo "your curiousty has activated restoration protocole so go hack the world "| pv -qL 10 
+espeak "your curiousty has activated restoration protocole so go hack the world."
 echo "                      REVEAL THE TRUTH "
+espeak "Reveal the truth"
 echo -e "${RED}Be Like The P${YELLOW}a${WHITE}r${GREEN}r${ORANGE}ot; Get Different Colors"| pv -qL 10
-echo -e "${LIGHTGREEN}Be Like The Snake; Work In Silence ${RED}"| pv -qL 10 
+espeak "Be like the parrot get different colors"
+echo -e "${LIGHTGREEN}Be Like The Snake; Work In Silence ${RED}"| pv -qL 10
+espeak "Be like the snake work in silence"
 echo ""
 echo ""
 read -p "ARE YOU READY (Y/N): " MrRobot
