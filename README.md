@@ -22,6 +22,9 @@ Run the installer:
 
 > ./installer.sh
 
+Run the game :
+> bash ./Kcah.sh
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/) ©Kcah.
